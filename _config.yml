@@ -1,0 +1,10 @@
+# Site settings
+title: Bchan is Programming
+email: chanbessie@gmail.com
+description: A blog about Bessie's programming adventures.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username: iambchan 
+
+# Build settings
+markdown: redcarpet 

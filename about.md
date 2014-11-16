@@ -7,4 +7,3 @@ permalink: /about/
 # Bessie Chan
 
 University of British Columbia Computer Science Graduate.
-

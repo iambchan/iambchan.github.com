@@ -2,7 +2,8 @@
 layout: post
 title: "Ephemeral Retrospective - Learning and Summary"
 date:   2014-11-09 16:19:00
-categories: nodejs, ephemeral, mongodb, express, jade
+categories: Projects Ephemeral
+tags: nodejs ephemeral mongodb express jade
 ---
 I closed off my project at the end of October since I had enough fun with the idea for now. In this post, I will write about design decisions for this web application. Here is where I really test my knowledge by thinking back on what I learned and what I still don't understand!
 
@@ -69,10 +70,12 @@ In this project, I was introduced to the templating library Jade, strengthened m
 - Contributing to open source [blog post here](http://bchanisprogramming.blogspot.ca/2014/10/i-made-my-first-contribution-to-open.html)
 - MVC: [date picker mvc](http://bchanisprogramming.blogspot.ca/2014/10/mvc-separating-state-from-presentation.html)
 - Web application architecture
-
+	
 ##Future
 - Increasing development speed by getting more familiar with vim
 - Strengthen knowledge on callbacks
 - More testing to speed up development instead of manually testing things after big changes
 - I hope to get more experience with different frameworks so I can compare and see the bigger picture of and develop an opinion about what type of framework works best for what.- Learn a new web framework -- perhaps rails..
 
+Visit my page here:
+[Ephemeral-messages](http://ephemeral-messages.herokuapp.com)

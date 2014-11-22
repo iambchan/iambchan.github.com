@@ -7,22 +7,21 @@ tags: SOTD, iterm, split, pane
 ---
 
 Split pane horizontally
-> cmd + shift + d
+> ⌘ + shift + d
 
 Split pane horizontally
-> cmd + d 
+> ⌘ + d 
 
 
 ##Bonus
 Switch between panes using keyboard shortcut: 
 
 Previous pane
-> cmd + ] 
+> ⌘ + ] 
 
 or 
 
 Next pane
-> cmd  + [ 
+> ⌘  + [ 
 
-This can be set up in the iterm preferences under the "keys" tab!
 
